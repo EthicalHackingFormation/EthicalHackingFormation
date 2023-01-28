@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naval</h1>
 <h3 align="center">A passionate fullstack developer from Madagascar</h3>
 
-<img alt="dev" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.um19N_oeTKlmrHMov0O5bAHaEH%26pid%3DApi&f=1&ipt=e89634b09704f41c8a9bbb64148876828792c71ee0eaaede674ba02f4c68e2bf&ipo=images" />
+<img align="center" alt="dev" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.um19N_oeTKlmrHMov0O5bAHaEH%26pid%3DApi&f=1&ipt=e89634b09704f41c8a9bbb64148876828792c71ee0eaaede674ba02f4c68e2bf&ipo=images" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethicalhackingformation&label=Profile%20views&color=0e75b6&style=flat" alt="ethicalhackingformation" /> </p>
 
